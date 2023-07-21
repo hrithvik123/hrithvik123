@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrithvik123, a computer science major at the University of Calgary going into my last semester.
+- 👋 Hi, I’m @hrithvik123, a full stack software developer specializing in web/mobile apps.
 - 👀 I love problem solving and am interested in Networking, Cloud and everything related to the web.
 - 🌱 I am currently working as a full stack developer building solutions using .NET, React, Nodejs and more.
 - 🌱 I have experience working with Azure, MSSQL server, Windows Server.
